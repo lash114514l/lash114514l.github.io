@@ -1,6 +1,5 @@
 ---
 title: "Hello"
-date: 2025-04-02
 ---
 
 - 👋 Hi, I’m @lash114514l
