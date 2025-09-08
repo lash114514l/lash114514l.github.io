@@ -1,0 +1,24 @@
+# Site settings
+title: "lash114514l's Personal Site"
+description: "Personal website and blog of lash114514l"
+baseurl: ""
+url: "https://ll45.me"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Author information
+author:
+  name: lash114514l
+
+# Social links
+github_username: lash114514l
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - vendor/
